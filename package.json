@@ -1,0 +1,24 @@
+{
+  "name": "utc-to-month-yyyy",
+  "version": "1.0.0",
+  "description": "A simple package that take the date in UTC format and returns date in Month-YYYY format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "\"UTC\"",
+    "\"Date",
+    "Converter\"",
+    "\"Date",
+    "Formater\"",
+    "\"Date\"",
+    "\"UTC",
+    "Date\"",
+    "\"MM-YY\"",
+    "\"Month\"",
+    "Year"
+  ],
+  "author": "Suhas",
+  "license": "MIT"
+}
